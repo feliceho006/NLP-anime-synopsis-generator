@@ -41,3 +41,12 @@ Code description:
 2. Run all and watch the text be generated
 
 ```
+
+**2.2 GPT-2 Model** <br>
+
+We also tried finetuning a model, GPT-2, to see what more sophisticated text generation would be able to do. We used a Python package, [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple), that provides finetuning and generation functions. The Google Colab notebook with the results are [here](https://colab.research.google.com/drive/16v66nXQTdElfs6bYzUbjKGS2WacTXqA8?usp=sharing). 
+
+
+
+
+
